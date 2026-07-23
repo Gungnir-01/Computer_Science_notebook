@@ -1,0 +1,26 @@
+{
+  "id": "conv-1784800083979-ict79xzbk",
+  "providerId": "claude",
+  "title": "Introduce yourself",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784800083986,
+  "updatedAt": 1784800644311,
+  "lastResponseAt": 1784800644311,
+  "sessionId": null,
+  "selectedModel": "haiku",
+  "providerState": {
+    "previousProviderSessionIds": [
+      "ef516ac2-d043-4ef6-9e8e-1dbf878bd1f4"
+    ]
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 268,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 29568,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 29836,
+    "percentage": 15
+  }
+}
