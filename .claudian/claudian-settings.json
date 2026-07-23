@@ -20,7 +20,7 @@
     "scrollDownKey": "s",
     "focusInputKey": "i"
   },
-  "requireCommandOrControlEnterToSend": true,
+  "requireCommandOrControlEnterToSend": false,
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
