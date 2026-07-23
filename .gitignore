@@ -1,0 +1,20 @@
+# Obsidian workspace state (personal, machine-specific)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/webviewer.json
+
+# Claude session data (not meant for sharing)
+.claudian/sessions/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+Desktop.ini
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+*.bak
